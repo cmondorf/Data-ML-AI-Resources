@@ -22,8 +22,8 @@ Has a heavy TensorFlow focus.
 
 ## Podcasts
 
-[Data Framed] (https://www.datacamp.com/community/podcast)
+[Data Framed](https://www.datacamp.com/community/podcast)
 
 ## News
 
-[DataCamp Community](https://www.datacamp.com/community)
+[DataCamp Community(https://www.datacamp.com/community)
