@@ -16,14 +16,14 @@ Curated list of useful data, ML and AI resources. This document will be updated 
 [Google Machine Learning Crashcourse] (https://developers.google.com/machine-learning/crash-course/)
 Has a heavy TensorFlow focus.
 
-[Fast.ai](http://www.fast.ai/)
+[Fast.ai] (http://www.fast.ai/)
 
-[Deeplearning.ai](https://www.deeplearning.ai/)
+[Deeplearning.ai] (https://www.deeplearning.ai/)
 
 ## Podcasts
 
-[Data Framed](https://www.datacamp.com/community/podcast)
+[Data Framed] (https://www.datacamp.com/community/podcast)
 
 ## News
 
-[DataCamp Community(https://www.datacamp.com/community)
+[DataCamp Community] (https://www.datacamp.com/community)
