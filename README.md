@@ -7,6 +7,16 @@ Curated list of useful data, ML and AI resources. This document will be updated 
 
 [Intro to GitHub](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
 
+## Math
+
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) Gilbert Strang's course on MIT OCW.
+
+[Linear Algebra Explained in Four Pages](http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
+
+[Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) Playlist from 3Blue1Brown. Does a good job of explaining the intuitions behind calculus.
+
+[Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) MIT course on EDx.
+
 ## R
 
 ## Python
