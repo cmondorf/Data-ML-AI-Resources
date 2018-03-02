@@ -36,6 +36,9 @@ Has a heavy TensorFlow focus.
 
 [DataCamp Community](https://www.datacamp.com/community)
 
+[Machine Learning Reddit](https://www.reddit.com/r/MachineLearning/)
+
+
 ## Interviews
 
 [Guide to take-home assignments](https://medium.freecodecamp.org/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7)
