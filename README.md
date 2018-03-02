@@ -38,6 +38,8 @@ Has a heavy TensorFlow focus.
 
 [Machine Learning Reddit](https://www.reddit.com/r/MachineLearning/)
 
+[HackerNews](https://news.ycombinator.com/) Interesting source of articles, not just in ML/AI.
+
 
 ## Interviews
 
