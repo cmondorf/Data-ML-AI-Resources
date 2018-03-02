@@ -40,6 +40,8 @@ Has a heavy TensorFlow focus.
 
 [Guide to take-home assignments](https://medium.freecodecamp.org/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7)
 
+[https://www.pramp.com/](https://www.pramp.com/)
+
 ## Complete curriculums
 
 [Learn Machine Learning in 3 Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
