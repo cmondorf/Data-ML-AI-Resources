@@ -30,6 +30,8 @@ Has a heavy TensorFlow focus.
 
 [Data Framed](https://www.datacamp.com/community/podcast)
 
+[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+
 ## News
 
 [DataCamp Community](https://www.datacamp.com/community)
