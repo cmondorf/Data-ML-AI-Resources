@@ -26,7 +26,7 @@ Has a heavy TensorFlow focus.
 
 [Deeplearning.ai](https://www.deeplearning.ai/)
 
-## Podcasts
+## Podcasts/ Youtube channels
 
 [Data Framed](https://www.datacamp.com/community/podcast)
 
@@ -37,3 +37,7 @@ Has a heavy TensorFlow focus.
 ## Interviews
 
 [Guide to take-home assignments](https://medium.freecodecamp.org/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7)
+
+## Complete curriculums
+
+[Learn Machine Learning in 3 Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
