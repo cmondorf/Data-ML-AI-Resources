@@ -1,6 +1,12 @@
 # Data-ML-AI-Resources
 Curated list of useful data, ML and AI resources. This document will be updated frequently as resources are found.
 
+## Tools
+
+[Git Guide](https://flaviocopes.com/git-guide/)
+
+[Intro to GitHub](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
+
 ## R
 
 ## Python
@@ -27,3 +33,7 @@ Has a heavy TensorFlow focus.
 ## News
 
 [DataCamp Community](https://www.datacamp.com/community)
+
+## Interviews
+
+[Guide to take-home assignments](https://medium.freecodecamp.org/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7)
