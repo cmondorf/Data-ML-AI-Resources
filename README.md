@@ -57,6 +57,10 @@ Has a heavy TensorFlow focus.
 
 [PRAMP](https://www.pramp.com/)
 
+## Applications / Domain-specific
+
+[Programming Historian](https://programminghistorian.org/) Great set of tutorials on computational and quantitative methods applied to the humanities and social sciences.
+
 ## Complete curriculums
 
 [Learn Machine Learning in 3 Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
