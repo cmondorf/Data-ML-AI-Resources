@@ -66,3 +66,7 @@ Has a heavy TensorFlow focus.
 ## Complete curriculums
 
 [Learn Machine Learning in 3 Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
+
+## Datasets
+
+[Collection of beginner-friendly practice sets](https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/)
