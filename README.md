@@ -23,6 +23,8 @@ Curated list of useful data, ML and AI resources. This document will be updated 
 
 ## Data Analysis
 
+[Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) Complete course curriculum.
+
 ## Machine learning
 
 ## Artificial Intelligence
