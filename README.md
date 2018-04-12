@@ -25,6 +25,8 @@ Curated list of useful data, ML and AI resources. This document will be updated 
 
 [Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) Complete course curriculum.
 
+[Chris Albon](https://chrisalbon.com/#articles) Really exhaustive collection of articles on many data, ML and AI topics.
+
 ## Machine learning
 
 ## Artificial Intelligence
